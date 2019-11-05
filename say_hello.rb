@@ -7,4 +7,4 @@ end
 
 
 
-  
+  say_hello(name)
